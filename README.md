@@ -4,8 +4,6 @@
 
 The only funding aggregator built around trust. 2,400+ verified opportunities for founders.
 
-![Capstack Screenshot](https://via.placeholder.com/800x400/0a0a0a/00c853?text=Capstack)
-
 ## 🚀 Features
 
 - **🔍 Browse 2,400+ Verified Opportunities** — Every listing is hand-verified and up-to-date
